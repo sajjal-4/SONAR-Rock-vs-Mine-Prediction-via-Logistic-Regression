@@ -15,7 +15,7 @@ The SONAR dataset is used to differentiate between rocks and mines based on sona
 - Pandas
 - NumPy
 - Scikit-learn
-- 
+
 ## Usage
 1. To get started, clone the repository using the following command:
 
